@@ -18,7 +18,7 @@ you can make your own link by doing the following.
 requires git!!!
 
 ```bash
-git clone https://github.com/qatual/central.git
+git clone https://github.com/solual/central.git
  ```
 ```bash
 cd central
