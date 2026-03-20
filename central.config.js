@@ -8,6 +8,7 @@
     { id:0, name:"ExtHang3r",    cover:"https://cdn.jsdelivr.net/gh/qatual/apps/exthang3r.png", url:"https://cdn.jsdelivr.net/gh/qatual/apps/ext.html",     authors:["BlobbyBoi"] },
     { id:1, name:"gdg",          cover:"https://cdn.jsdelivr.net/gh/qatual/apps/gdg.png",       url:"https://cdn.jsdelivr.net/gh/qatual/apps/gdg.html",     authors:["bog"] },
     { id:2, name:"Verdant (AI)", cover:"https://cdn.jsdelivr.net/gh/1qatu/verdant/logo.png",    url:"https://cdn.jsdelivr.net/gh/1qatu/verdant/index.html", authors:["qatual"] },
+    { id:2, name:"Helios", cover:"https://cdn.jsdelivr.net/gh/solual/apps/helios/logo.jpg",    url:"https://cdn.jsdelivr.net/gh/solual/apps/helios/index.html", authors:["dinguschan"] },
   ];
 
   var state = {
