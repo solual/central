@@ -1,14 +1,14 @@
 <div align="center">
 <img src="https://solocentral.org/logo.png" alt="Solo solo" width="150" height="150" style="border-radius: 50%;" />
 
-  # Solo solo
+  # Solo Central 
 
 ### the games for you <3
 ##
 
 </div>
 
-## What is so good about solo solo?
+## What is so good about solo central?
 
 it is a amazing website designed to bypass internet censorship, with over 700+ free web games.
 
@@ -18,10 +18,10 @@ you can make your own link by doing the following.
 requires git!!!
 
 ```bash
-git clone https://github.com/solual/solo.git
+git clone https://github.com/solual/central.git
  ```
 ```bash
-cd solo
+cd central
 ```
 
 its that easy!
