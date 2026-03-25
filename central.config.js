@@ -622,5 +622,6 @@
   } else {
     init();
   }
-
+alert("this version is outdated! please switch to the new version");
+alert("discord.gg/unblockings");
 })();
