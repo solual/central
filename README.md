@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://solosolo.org/logo.png" alt="Solo solo" width="150" height="150" style="border-radius: 50%;" />
+<img src="https://solocentral.org/logo.png" alt="Solo solo" width="150" height="150" style="border-radius: 50%;" />
 
   # Solo solo
 
