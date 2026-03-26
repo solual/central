@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://solocentral.org/logo.png](https://cdn.jsdelivr.net/gh/solualub/assets@main/logo/landscape.svg" alt="teh logo" width="150" height="150" style="border-radius: 50%;" />
+<img src="https://cdn.jsdelivr.net/gh/solualub/assets@main/logo/landscape.svg" alt="teh logo" width="150" height="150" style="border-radius: 50%;" />
 
   # Solo Central 
 
